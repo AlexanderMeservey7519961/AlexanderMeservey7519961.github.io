@@ -20,7 +20,8 @@ var init = function (window) {
         ///////////////////
         
         // TODO 1 : Declare and initialize our variables
-var circles = []
+var circle
+        var circles = []
 
 
         // TODO 2 : Create a function that draws a circle 
@@ -85,7 +86,7 @@ for (var i = 0; i < circles.length; i++) {
 }
             
             // TODO 5 : Call game.checkCirclePosition() on your circles
-           game.checkCirclePosition(circles[ 0 ])
+}
 
 
 
